@@ -7,7 +7,7 @@ const highScore = 0;
 const style = {
     HeaderStyle: {
         marginTop: 0,
-        height: "22vh",
+        height: "12vh",
         textAlign: "center",
         width: "100%",
         background: "black",
