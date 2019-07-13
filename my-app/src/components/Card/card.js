@@ -14,6 +14,7 @@ function Card(props) {
           </li>
           
         </ul>
+        
       </div>
     </div>
   );
